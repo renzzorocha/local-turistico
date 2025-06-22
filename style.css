@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  background-color: #f5f4f0;
+  color: #333333;
+  margin: 88px 80px 137px 80px;
+}
+
+main {
+  width: 1120px;
+  margin: 120px auto 89px;
+}
+
+#title-page > p {
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  color: #e1624f;
+}
+
+#title-page > h1 {
+  font-size: 36px;
+  margin-bottom: 40px;
+}
+
+#description > img {
+  border-radius: 28px;
+  width: 1120px;
+}
+
+#description > p {
+  font-style: italic;
+  font-size: 16px;
+  padding-top: 10px;
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+#title > p {
+  margin-top: 64px;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  color: #e1624f;
+}
+
+#title > h2 {
+  font-size: 32px;
+}
+
+#description-busan {
+  padding-top: 10px;
+  padding-bottom: 64px;
+}
+
+.card-travel > img {
+  padding-bottom: 20px;
+}
+
+.content-card > h3 {
+  font-size: 28px;
+  margin-bottom: 4px;
+}
+
+#last-description > p {
+  padding-top: 40px;
+  text-align: center;
+  margin-bottom: 65px;
+}
+
+footer {
+  color: #333333;
+  text-align: center;
+  padding-bottom: 41px;
+  line-height: 150%;
+}
+
+.content-card ul li::marker {
+  color: black;
+}
+
+footer img {
+  vertical-align: middle;
+}
